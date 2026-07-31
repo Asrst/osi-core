@@ -1,3 +1,9 @@
+
+
+> **Archived. OSI is now under Apache as Ossie**
+> https://github.com/apache/ossie/tree/main/python
+
+
 # osi-core
 
 An OSI Native Metric Compiler/Converter — hub-and-spoke translation for metric definitions.
